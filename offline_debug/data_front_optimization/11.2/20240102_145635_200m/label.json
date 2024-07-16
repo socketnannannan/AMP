@@ -1,0 +1,157 @@
+{
+    "VIN": "vin12345678901710",
+    "collectingInformation": null,
+    "content_tags": [
+        {
+            "begin_geo": {
+                "address": "",
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "category": "question",
+            "cn-name": "学习170米，路径保存超时",
+            "framelabel": {
+                "id": 0,
+                "position": {
+                    "coordinates": null
+                }
+            },
+            "name": "学习170米，路径保存超时",
+            "timedate": "2024-01-02 15:00:26.066"
+        },
+        {
+            "begin_geo": {
+                "address": "",
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "category": "question",
+            "cn-name": "学习160米，路径保存超时",
+            "framelabel": {
+                "id": 1,
+                "position": {
+                    "coordinates": null
+                }
+            },
+            "name": "学习160米，路径保存超时",
+            "timedate": "2024-01-02 15:05:59.308"
+        }
+    ],
+    "data_table": 1704178595624,
+    "date_created": "2024-01-02 14:56:35.624",
+    "label_options": [
+        {
+            "is_issue": false,
+            "is_multiple": false,
+            "is_required": false,
+            "option_enum_values": [
+                {
+                    "label": "公共园区",
+                    "value": "PublicPark"
+                },
+                {
+                    "label": "住宅小区",
+                    "value": "ResidentialArea"
+                },
+                {
+                    "label": "办公楼",
+                    "value": "OfficeBuilding"
+                },
+                {
+                    "label": "商场超市",
+                    "value": "ShoppingMall"
+                },
+                {
+                    "label": "商业住宅",
+                    "value": "CommercialHouse"
+                }
+            ],
+            "option_key": "ParkingLotType",
+            "option_label": "停车场类型",
+            "option_value_type": "enum"
+        },
+        {
+            "is_issue": false,
+            "is_multiple": false,
+            "is_required": false,
+            "option_enum_values": [
+                {
+                    "label": "一层",
+                    "value": "FirstFloor"
+                },
+                {
+                    "label": "二层",
+                    "value": "SecondFloor"
+                },
+                {
+                    "label": "三层",
+                    "value": "ThreeLayers"
+                },
+                {
+                    "label": "多层",
+                    "value": "MultipleLayers"
+                },
+                {
+                    "label": "停车场",
+                    "value": "ParkingLot"
+                },
+                {
+                    "label": "地面",
+                    "value": "Ground"
+                }
+            ],
+            "option_key": "ParkingFloorsNumber",
+            "option_label": "停车场层数",
+            "option_value_type": "enum"
+        },
+        {
+            "is_issue": false,
+            "is_multiple": false,
+            "is_required": false,
+            "option_enum_values": [
+                {
+                    "label": "水泥",
+                    "value": "Cement"
+                },
+                {
+                    "label": "柏油",
+                    "value": "Asphalt"
+                },
+                {
+                    "label": "环氧",
+                    "value": "Epoxy"
+                }
+            ],
+            "option_key": "FloorMaterial",
+            "option_label": "地面材质",
+            "option_value_type": "enum"
+        },
+        {
+            "is_issue": false,
+            "is_multiple": false,
+            "is_required": false,
+            "option_enum_values": [
+                {
+                    "label": "直行入库",
+                    "value": "GoStraightToWarehouse"
+                },
+                {
+                    "label": "螺旋入库",
+                    "value": "ScrewToWarehouse"
+                }
+            ],
+            "option_key": "Entrytype",
+            "option_label": "入口类型",
+            "option_value_type": "enum"
+        }
+    ],
+    "location": "",
+    "person": "wgh",
+    "pilotOrParking": "parking",
+    "record_begin_time": "2024-01-02 14:56:35.624",
+    "remarkList": [],
+    "true_value": false,
+    "version": {
+        "DataManager": "apa_20240101_W - 1.1.3"
+    }
+}

@@ -1,0 +1,4 @@
+----init guess x is 92.016 y is -38.6683 init_guess_step_num:3
+final guess x is 92.016 y is -38.6683
+origin search time is 1376.95
+opti t:91.9536 -38.4514 -0.034791

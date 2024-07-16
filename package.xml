@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>map_io</name>
+  <version>0.0.0</version>
+  <description>hpa map io package</description>
+
+  <maintainer email="Bilin_Dai@human-horizons.com">BilinDai</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+</package>

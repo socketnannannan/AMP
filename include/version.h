@@ -1,0 +1,13 @@
+#ifndef INCLUDE_VERSION
+#define INCLUDE_VERSION
+
+#define PROJECT_NAME "map_io"
+#define PROJECT_VER  "v10.2.3"
+#define PROJECT_VER_MAJOR "10"
+#define PROJECT_VER_MINOR "2"
+#define PTOJECT_VER_PATCH "3"
+#define PTOJECT_BUILD_TIME "20240115"
+#define PTOJECT_GIT_HASH "0"
+#define PTOJECT_GIT_BRANCH ""
+
+#endif // INCLUDE_VERSION
